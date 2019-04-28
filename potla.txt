@@ -1,9 +1,1 @@
-Oh hello potla
-hasdckh
-csakjkj
-Something something
-<<<<<<< HEAD
-btb
-=======
-Again Something
->>>>>>> 402e416... Some commits
+ Just another text
